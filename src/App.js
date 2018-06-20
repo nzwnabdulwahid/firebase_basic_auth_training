@@ -19,12 +19,12 @@ class App extends Component {
 	
 	componentWillMount() {
 		firebase.initializeApp({
-		    apiKey: "AIzaSyCVkiXQSqCHT3BhPLOW8ZDphnEL44ufZSA",
-		    authDomain: "auth-training.firebaseapp.com",
-		    databaseURL: "https://auth-training.firebaseio.com",
-		    projectId: "auth-training",
-		    storageBucket: "auth-training.appspot.com",
-		    messagingSenderId: "307100946252"
+		    apiKey: "XX",
+		    authDomain: "XX",
+		    databaseURL: "XX",
+		    projectId: "XX",
+		    storageBucket: "XX",
+		    messagingSenderId: "XX"
 		  })	
 
 
